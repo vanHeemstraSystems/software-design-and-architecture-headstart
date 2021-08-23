@@ -8,5 +8,5 @@ Based on "How to Learn Software Design and Architecture | The Full-stack Softwar
 
 Redesigned by Willem van Heemstra:
 
-![Screenshot 2021-08-23 150136](https://user-images.githubusercontent.com/12828104/130451799-d52f9649-fbdc-4574-bc4f-0d1d72a9d6a6.png)
+![Screenshot 2021-08-23 150136](https://user-images.githubusercontent.com/12828104/130453087-c0f3c352-fe86-4286-a7b5-62bfd7345982.png)
 

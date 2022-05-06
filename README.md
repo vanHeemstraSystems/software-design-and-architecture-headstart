@@ -10,7 +10,7 @@ Redesigned by Willem van Heemstra:
 
 ![Screenshot 2021-08-23 150136](https://user-images.githubusercontent.com/12828104/130453087-c0f3c352-fe86-4286-a7b5-62bfd7345982.png)
 
-![Software Design   Architecture Stack 007](https://user-images.githubusercontent.com/1499433/167086280-902f153a-3a13-490a-8a86-473375dbc6c9.png)
+![Software Design   Architecture Stack 007](https://user-images.githubusercontent.com/1499433/167158644-2654213c-181e-451a-bdec-6742a6f615ad.png)
 
 Layers
 

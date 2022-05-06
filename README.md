@@ -16,7 +16,7 @@ Layers
 
 | GUIS  | Description |
 | ------------- | ------------- |
-| Content Management Systems (CMS)  | [Strapi](https://github.com/vanHeemstraSystems/strapi-head-of-cms-headstart)  |
+| Content Management Systems (CMS)  | - [Strapi](https://github.com/vanHeemstraSystems/strapi-head-of-cms-headstart)  |
 
 | APIS  | Description |
 | ------------- | ------------- |

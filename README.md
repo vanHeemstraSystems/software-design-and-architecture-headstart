@@ -29,7 +29,7 @@ Layers
 | Chat  | - Chat-Server  |
 | Content Management Systems (CMS)  | - Strapi  |
 | Infrastructure Management (IM)  | - Clutch  |
-| Knowledge Management (KM)  | - Raneto  |
+| Knowledge Management (KM)  | - [Raneto](https://github.com/vanHeemstraSystems/raneto-headstart)  |
 | Microservices Management (MM)  | - [Ortelius](https://github.com/vanHeemstraSystems/ortelius-headstart)  |
 
 

@@ -14,3 +14,37 @@ Redesigned by Willem van Heemstra:
 
 Layers
 
+| GUIS  | Description |
+| ------------- | ------------- |
+| ...  | ...  |
+
+| APIS  | Description |
+| ------------- | ------------- |
+| ...  | ...  |
+
+| MICROSERVICES  | Description |
+| ------------- | ------------- |
+| Business Applications Management (BAM)  | - Budibase  |
+| Business Process Management (BPM)  | - Camunda  |
+| Chat  | - Chat-Server  |
+| Content Management Systems (CMS)  | - Strapi  |
+| Infrastructure Management (IM)  | - Clutch  |
+| Knowledge Management (KM)  | - Raneto  |
+| Microservices Management (MM)  | - Ortelius  |
+
+
+| QUEUING  | Description |
+| ------------- | ------------- |
+| ...  | ...  |
+
+| DATABASES  | Description |
+| ------------- | ------------- |
+| ...  | ...  |
+
+| PIPELINES  | Description |
+| ------------- | ------------- |
+| ...  | ...  |
+
+| FUNCTIONS  | Description |
+| ------------- | ------------- |
+| ...  | ...  |

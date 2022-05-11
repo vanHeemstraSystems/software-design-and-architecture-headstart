@@ -30,8 +30,9 @@ Layers
 | Content Management (CM)  | - [Strapi](https://github.com/vanHeemstraSystems/strapi-headless-cms-headstart)  |
 | Infrastructure Management (IM)  | - [Clutch](https://github.com/vanHeemstraSystems/clutch-headstart)  |
 | Knowledge Management (KM)  | - [Raneto](https://github.com/vanHeemstraSystems/raneto-headstart)  |
-| Network Management (NM)  | - [Topolograph](https://github.com/vanHeemstraSystems/topolograph-headstart)  |
 | Microservices Management (MM)  | - [Ortelius](https://github.com/vanHeemstraSystems/ortelius-headstart)  |
+| Network Management (NM)  | - [Topolograph](https://github.com/vanHeemstraSystems/topolograph-headstart)  |
+| Project Management (PM)  | - [Redmine](https://github.com/vanHeemstraSystems/redmine-headstart)  |
 | Requirements Management (RM)  | - [OpenReq](https://github.com/vanHeemstraSystems/openreq-headstart)  |
 
 

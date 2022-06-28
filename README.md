@@ -33,7 +33,7 @@ Layers
 | Microservices Management (MM)  | - [Ortelius](https://github.com/vanHeemstraSystems/ortelius-headstart)  |
 | Network Management (NM)  | - [Topolograph](https://github.com/vanHeemstraSystems/topolograph-headstart)  |
 | Project Management (PM)  | - [Redmine](https://github.com/vanHeemstraSystems/redmine-headstart)  |
-| Requirements Management (RM)  | - [OpenReq](https://github.com/vanHeemstraSystems/openreq-headstart)  |
+| Requirements Management (RM)  | - [OpenReq](https://github.com/vanHeemstraSystems/openreq-headstart) - [Requirements Management](https://github.com/vanHeemstraSystems/requirements-management) |
 
 
 | QUEUING  | Description |

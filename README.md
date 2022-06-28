@@ -34,6 +34,7 @@ Layers
 | Network Management (NM)  | - [Topolograph](https://github.com/vanHeemstraSystems/topolograph-headstart)  |
 | Project Management (PM)  | - [Redmine](https://github.com/vanHeemstraSystems/redmine-headstart)  |
 | Requirements Management (RM)  | - [OpenReq](https://github.com/vanHeemstraSystems/openreq-headstart) - [Requirements Management](https://github.com/vanHeemstraSystems/requirements-management) |
+| Time Management (TM)  | - [Time Management](https://github.com/vanHeemstraSystems/time-management)  |
 
 
 | QUEUING  | Description |

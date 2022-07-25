@@ -29,7 +29,7 @@ Layers
 | Business Applications Management (BAM) | - [Budibase](https://github.com/vanHeemstraSystems/budibase-headstart) |
 | Business Process Management (BPM) | - [Camunda](https://github.com/vanHeemstraSystems/camunda-headstart) |
 | Chat Management (CHM) | - [Chat-Server](https://github.com/vanHeemstraSystems/exo-chat-headstart) |
-| Content Management (CM) | - [Strapi](https://github.com/vanHeemstraSystems/strapi-headless-cms-headstart) |
+| Content Management (COM) | - [Strapi](https://github.com/vanHeemstraSystems/strapi-headless-cms-headstart) |
 | Infrastructure Management (IM) | - [Clutch](https://github.com/vanHeemstraSystems/clutch-headstart) |
 | Knowledge Management (KM) | - [Raneto](https://github.com/vanHeemstraSystems/raneto-headstart) |
 | Microservices Management (MM) | - [Ortelius](https://github.com/vanHeemstraSystems/ortelius-headstart) |

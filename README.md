@@ -16,8 +16,8 @@ Layers
 
 | GUIS  | Description |
 | ------------- | ------------- |
-| Artifact Management (AM) | - [Docker Registry Frontend](https://github.com/vanHeemstraSystems/strapi-head-of-cms-headstart](https://hub.docker.com/r/konradkleine/docker-registry-frontend/)) |
-| Content Management (CM) | - [Strapi](https://github.com/vanHeemstraSystems/strapi-head-of-cms-headstart) |
+| Artifact Management (ARM) | - [Docker Registry Frontend](https://github.com/vanHeemstraSystems/strapi-head-of-cms-headstart](https://hub.docker.com/r/konradkleine/docker-registry-frontend/)) |
+| Content Management (COM) | - [Strapi](https://github.com/vanHeemstraSystems/strapi-head-of-cms-headstart) |
 
 | APIS  | Description |
 | ------------- | ------------- |
@@ -25,18 +25,18 @@ Layers
 
 | MICROSERVICES  | Description |
 | ------------- | ------------- |
-| Artifact Management (AM) | - [Harbor](https://github.com/vanHeemstraSystems/harbor-headstart) <br> - [Docker Registry](https://docs.docker.com/registry/) |
+| Artifact Management (ARM) | - [Harbor](https://github.com/vanHeemstraSystems/harbor-headstart) <br> - [Docker Registry](https://docs.docker.com/registry/) |
 | Business Applications Management (BAM) | - [Budibase](https://github.com/vanHeemstraSystems/budibase-headstart) |
 | Business Process Management (BPM) | - [Camunda](https://github.com/vanHeemstraSystems/camunda-headstart) |
 | Chat Management (CHM) | - [Chat-Server](https://github.com/vanHeemstraSystems/exo-chat-headstart) |
 | Content Management (COM) | - [Strapi](https://github.com/vanHeemstraSystems/strapi-headless-cms-headstart) |
-| Infrastructure Management (IM) | - [Clutch](https://github.com/vanHeemstraSystems/clutch-headstart) |
-| Knowledge Management (KM) | - [Raneto](https://github.com/vanHeemstraSystems/raneto-headstart) |
-| Microservices Management (MM) | - [Ortelius](https://github.com/vanHeemstraSystems/ortelius-headstart) |
-| Network Management (NM) | - [Topolograph](https://github.com/vanHeemstraSystems/topolograph-headstart) |
-| Project Management (PM) | - [Redmine](https://github.com/vanHeemstraSystems/redmine-headstart)  |
-| Requirements Management (RM) | - [OpenReq](https://github.com/vanHeemstraSystems/openreq-headstart) <br> - [Requirements Management](https://github.com/vanHeemstraSystems/requirements-management) |
-| Time Management (TM) | - [Time Management](https://github.com/vanHeemstraSystems/time-management) |
+| Infrastructure Management (INM) | - [Clutch](https://github.com/vanHeemstraSystems/clutch-headstart) |
+| Knowledge Management (KNM) | - [Raneto](https://github.com/vanHeemstraSystems/raneto-headstart) |
+| Microservices Management (MIM) | - [Ortelius](https://github.com/vanHeemstraSystems/ortelius-headstart) |
+| Network Management (NEM) | - [Topolograph](https://github.com/vanHeemstraSystems/topolograph-headstart) |
+| Project Management (PRM) | - [Redmine](https://github.com/vanHeemstraSystems/redmine-headstart)  |
+| Requirements Management (REM) | - [OpenReq](https://github.com/vanHeemstraSystems/openreq-headstart) <br> - [Requirements Management](https://github.com/vanHeemstraSystems/requirements-management) |
+| Time Management (TIM) | - [Time Management](https://github.com/vanHeemstraSystems/time-management) |
 
 
 | QUEUING  | Description |

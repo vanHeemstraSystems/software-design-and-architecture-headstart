@@ -16,7 +16,7 @@ Layers
 
 | GUIS  | Description |
 | ------------- | ------------- |
-| Artifact Management (AM) | - [Docker Registry Frontend]([https://github.com/vanHeemstraSystems/strapi-head-of-cms-headstart](https://hub.docker.com/r/konradkleine/docker-registry-frontend/)) |
+| Artifact Management (AM) | - [Docker Registry Frontend](https://github.com/vanHeemstraSystems/strapi-head-of-cms-headstart](https://hub.docker.com/r/konradkleine/docker-registry-frontend/)) |
 | Content Management (CM) | - [Strapi](https://github.com/vanHeemstraSystems/strapi-head-of-cms-headstart) |
 
 | APIS  | Description |

@@ -28,7 +28,7 @@ Layers
 | Artifact Management (AM) | - [Harbor](https://github.com/vanHeemstraSystems/harbor-headstart) <br> - [Docker Registry](https://docs.docker.com/registry/) |
 | Business Applications Management (BAM) | - [Budibase](https://github.com/vanHeemstraSystems/budibase-headstart) |
 | Business Process Management (BPM) | - [Camunda](https://github.com/vanHeemstraSystems/camunda-headstart) |
-| Chat | - [Chat-Server](https://github.com/vanHeemstraSystems/exo-chat-headstart) |
+| Chat Management (CHM) | - [Chat-Server](https://github.com/vanHeemstraSystems/exo-chat-headstart) |
 | Content Management (CM) | - [Strapi](https://github.com/vanHeemstraSystems/strapi-headless-cms-headstart) |
 | Infrastructure Management (IM) | - [Clutch](https://github.com/vanHeemstraSystems/clutch-headstart) |
 | Knowledge Management (KM) | - [Raneto](https://github.com/vanHeemstraSystems/raneto-headstart) |

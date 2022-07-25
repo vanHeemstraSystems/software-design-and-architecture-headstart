@@ -24,7 +24,7 @@ Layers
 
 | MICROSERVICES  | Description |
 | ------------- | ------------- |
-| Artifact Management (AM)  | - [Harbor](https://github.com/vanHeemstraSystems/harbor-headstart) |
+| Artifact Management (AM)  | - [Harbor](https://github.com/vanHeemstraSystems/harbor-headstart) <br> - [Docker Registry](https://docs.docker.com/registry/) |
 | Business Applications Management (BAM)  | - [Budibase](https://github.com/vanHeemstraSystems/budibase-headstart) |
 | Business Process Management (BPM)  | - [Camunda](https://github.com/vanHeemstraSystems/camunda-headstart) |
 | Chat  | - [Chat-Server](https://github.com/vanHeemstraSystems/exo-chat-headstart) |
@@ -34,7 +34,7 @@ Layers
 | Microservices Management (MM)  | - [Ortelius](https://github.com/vanHeemstraSystems/ortelius-headstart) |
 | Network Management (NM)  | - [Topolograph](https://github.com/vanHeemstraSystems/topolograph-headstart) |
 | Project Management (PM)  | - [Redmine](https://github.com/vanHeemstraSystems/redmine-headstart)  |
-| Requirements Management (RM)  | - [OpenReq](https://github.com/vanHeemstraSystems/openreq-headstart) - [Requirements Management](https://github.com/vanHeemstraSystems/requirements-management) |
+| Requirements Management (RM)  | - [OpenReq](https://github.com/vanHeemstraSystems/openreq-headstart) <br> - [Requirements Management](https://github.com/vanHeemstraSystems/requirements-management) |
 | Time Management (TM)  | - [Time Management](https://github.com/vanHeemstraSystems/time-management) |
 
 
